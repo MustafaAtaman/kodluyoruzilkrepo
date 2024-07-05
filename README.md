@@ -12,3 +12,4 @@ Katkıda bulunmak isterseniz, lütfen bir pull request gönderin.
 ## Lisans
 
 Bu proje [lisans türü] lisansı ile lisanslanmıştır.
+![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
